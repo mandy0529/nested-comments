@@ -1,5 +1,7 @@
+import {PostList} from './compoennts/Postlists';
+
 function App() {
-  return <div className="App">minji</div>;
+  return <PostList />;
 }
 
 export default App;
